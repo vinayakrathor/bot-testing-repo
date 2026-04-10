@@ -16,3 +16,6 @@ def square(x): return x*x
 
 # Update by DESKTOP-7BPHQFP at 2026-04-10 14:02:41.196631
 def greet(name): return f'Hello {name}'
+
+# Update by DESKTOP-7BPHQFP at 2026-04-10 15:02:55.873431
+def is_even(n): return n%2==0
