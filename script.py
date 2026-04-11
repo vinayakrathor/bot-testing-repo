@@ -40,3 +40,6 @@ def add(a,b): return a+b
 
 # Update by DESKTOP-7BPHQFP at 2026-04-11 22:03:27.212295
 def greet(name): return f'Hello {name}'
+
+# Update by DESKTOP-7BPHQFP at 2026-04-11 22:13:06.728233
+def square(x): return x*x
