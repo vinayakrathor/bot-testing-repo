@@ -34,3 +34,6 @@ function greet(name){return `Hello ${name}`;}
 
 // Update by DESKTOP-7BPHQFP at 2026-04-12 19:39:59.117510
 function greet(name){return `Hello ${name}`;}
+
+// Update by DESKTOP-7BPHQFP at 2026-04-12 19:45:07.100530
+function square(x){return x*x;}
