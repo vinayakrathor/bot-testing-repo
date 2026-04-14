@@ -76,3 +76,6 @@ function add(a,b){return a+b;}
 
 // Update by DESKTOP-7BPHQFP at 2026-04-14 21:15:04.780083
 function greet(name){return `Hello ${name}`;}
+
+// Update by DESKTOP-7BPHQFP at 2026-04-14 22:19:47.696439
+function isEven(n){return n%2===0;}
