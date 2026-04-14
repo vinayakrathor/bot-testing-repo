@@ -88,3 +88,6 @@ function isEven(n){return n%2===0;}
 
 // Update by DESKTOP-7BPHQFP at 2026-04-14 22:23:08.122031
 function add(a,b){return a+b;}
+
+// Update by DESKTOP-7BPHQFP at 2026-04-14 22:24:14.526512
+function square(x){return x*x;}
