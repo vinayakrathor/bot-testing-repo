@@ -91,3 +91,6 @@ function add(a,b){return a+b;}
 
 // Update by DESKTOP-7BPHQFP at 2026-04-14 22:24:14.526512
 function square(x){return x*x;}
+
+// Update by DESKTOP-7BPHQFP at 2026-04-14 22:25:22.281274
+function isEven(n){return n%2===0;}
