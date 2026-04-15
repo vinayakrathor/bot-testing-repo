@@ -97,3 +97,6 @@ function isEven(n){return n%2===0;}
 
 // Update by DESKTOP-7BPHQFP at 2026-04-15 16:09:43.739239
 function greet(name){return `Hello ${name}`;}
+
+// Update by DESKTOP-7BPHQFP at 2026-04-15 16:10:54.209568
+function square(x){return x*x;}
