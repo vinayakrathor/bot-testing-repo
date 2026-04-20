@@ -76,3 +76,6 @@ def greet(name): return f'Hello {name}'
 
 # Update by DESKTOP-7BPHQFP at 2026-04-20 19:58:52.164144
 def greet(name): return f'Hello {name}'
+
+# Update by DESKTOP-7BPHQFP at 2026-04-20 19:59:56.986742
+def add(a,b): return a+b
