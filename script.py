@@ -55,3 +55,6 @@ def square(x): return x*x
 
 # Update by DESKTOP-7BPHQFP at 2026-04-20 19:51:20.781406
 def is_even(n): return n%2==0
+
+# Update by DESKTOP-7BPHQFP at 2026-04-20 19:52:26.113127
+def square(x): return x*x
