@@ -82,3 +82,6 @@ def add(a,b): return a+b
 
 # Update by DESKTOP-7BPHQFP at 2026-04-20 20:01:01.392459
 def is_even(n): return n%2==0
+
+# Update by DESKTOP-7BPHQFP at 2026-04-20 20:02:05.541046
+def square(x): return x*x
