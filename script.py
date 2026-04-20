@@ -61,3 +61,6 @@ def square(x): return x*x
 
 # Update by DESKTOP-7BPHQFP at 2026-04-20 19:53:30.265268
 def add(a,b): return a+b
+
+# Update by DESKTOP-7BPHQFP at 2026-04-20 19:54:34.262870
+def square(x): return x*x
