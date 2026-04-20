@@ -70,3 +70,6 @@ def is_even(n): return n%2==0
 
 # Update by DESKTOP-7BPHQFP at 2026-04-20 19:56:42.141024
 def add(a,b): return a+b
+
+# Update by DESKTOP-7BPHQFP at 2026-04-20 19:57:46.315751
+def greet(name): return f'Hello {name}'
