@@ -100,3 +100,6 @@ def square(x): return x*x
 
 # Update by DESKTOP-7BPHQFP at 2026-04-21 09:26:57.510118
 def square(x): return x*x
+
+# Update by DESKTOP-7BPHQFP at 2026-04-21 09:27:51.071592
+def greet(name): return f'Hello {name}'
