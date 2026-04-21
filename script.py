@@ -112,3 +112,6 @@ def square(x): return x*x
 
 # Update by DESKTOP-7BPHQFP at 2026-04-21 09:31:08.261197
 def greet(name): return f'Hello {name}'
+
+# Update by DESKTOP-7BPHQFP at 2026-04-21 09:32:14.741595
+def add(a,b): return a+b
