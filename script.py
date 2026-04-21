@@ -118,3 +118,6 @@ def add(a,b): return a+b
 
 # Update by DESKTOP-7BPHQFP at 2026-04-21 09:33:20.719024
 def greet(name): return f'Hello {name}'
+
+# Update by DESKTOP-7BPHQFP at 2026-04-21 09:34:25.704082
+def is_even(n): return n%2==0
