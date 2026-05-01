@@ -124,3 +124,6 @@ def is_even(n): return n%2==0
 
 # Update by DESKTOP-7BPHQFP at 2026-05-01 06:00:15.134454
 def square(x): return x*x
+
+# Update by DESKTOP-7BPHQFP at 2026-05-01 06:02:22.062108
+def is_even(n): return n%2==0
